@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasanna-collab
-- 👀 I’m interested in Web Technology.
-- 🌱 I’m currently learning MERN Based Web Development.
+- 👀 I’m interested in Web Development.
+- 🌱 MERN Stack.
 - 📫 For Contact : prasannarajendran18@gmail.com
 
 <!---
