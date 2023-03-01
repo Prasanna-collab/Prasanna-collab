@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Prasanna-collab
-- 👀 I’m interested in Web Development.
-- 🌱 MERN Stack.
+- 🌱 MERN Stack Developer
 - 📫 For Contact : prasannarajendran18@gmail.com
 
 <!---
