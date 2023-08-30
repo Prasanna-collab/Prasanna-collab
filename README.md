@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasanna</h1>
+<h1 align="center">Hi 👋, I'm Prasanna R</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanna-collab&label=Profile%20views&color=0e75b6&style=flat" alt="prasanna-collab" /> </p>
