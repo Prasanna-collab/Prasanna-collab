@@ -26,30 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna-collab&theme=radical" alt="GitHub Streak" /></p>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
 <div align="center">
-  <canvas id="daily-chart" style="background: #1f1f1f; border-radius: 10px;"></canvas>
+  <a href="https://link-to-external-page.com">
+    <img src="https://link-to-imgur-image.com" alt="Daily Progress Chart" style="max-width:100%;">
+  </a>
 </div>
-
-<script>
-  const canvasWidth = 400;
-  const canvasHeight = 200;
-  let xPos = 10;
-
-  function setup() {
-    const canvas = createCanvas(canvasWidth, canvasHeight);
-    canvas.parent('daily-chart');
-  }
-
-  function draw() {
-    background(31);
-    fill(255);
-    circle(xPos, canvasHeight / 2, 10);
-  }
-
-  function mouseClicked() {
-    if (mouseX > 0 && mouseX < canvasWidth && mouseY > 0 && mouseY < canvasHeight) {
-      xPos = mouseX;
-    }
-  }
-</script>
