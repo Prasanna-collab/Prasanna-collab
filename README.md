@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanna-collab&show_icons=true&locale=en" alt="prasanna-collab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna-collab&" alt="prasanna-collab" /></p>
-![Snake animation](https://github.com/Prasanna-collab/Prasanna-collab/blob/output/github-contribution-grid-snake.svg)
+
