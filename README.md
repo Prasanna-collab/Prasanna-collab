@@ -26,9 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna-collab&theme=radical" alt="GitHub Streak" /></p>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
-<div align="center">
-  <canvas id="daily-chart" style="background: #1f1f1f; border-radius: 10px;"></canvas>
-</div>
+
 
 
