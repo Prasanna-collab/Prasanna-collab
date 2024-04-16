@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prasannadev-portfolio.netlify.app/](https://prasannadev-portfolio.netlify.app/)
 
-- 💬 Ask me about **React.js, JavaScript, Node.js, Express.Js, MongoDB**
+- 💬 Ask me about **React.js, JavaScript,C#,.Net Framework, Node.js, Express.Js, MongoDB, SQL**
 
 - 📫 How to reach me **raprasannaanbu@gmail.com**
 
