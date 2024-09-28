@@ -1,8 +1,5 @@
 
 
-![GitHub Snake](https://github.com/prasanna-collab/prasanna-collab/blob/output/github-contribution-grid-snake.svg)
-
-
 <h1 align="center">Hi there! 👋 I'm Prasanna Rajendran</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
