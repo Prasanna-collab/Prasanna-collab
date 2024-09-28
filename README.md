@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanna-collab" alt="prasanna-collab" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://prasannadev-portfolio.netlify.app/](https://prasannadev-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://glanceofprasanna.netlify.app/]((https://glanceofprasanna.netlify.app/))
 
 - 💬 Ask me about **React.js, Next.js, Typescript, JavaScript,C#,.Net Framework, .Net Core Web Api, Node.js, Express.Js, MongoDB, MS Sql Server,Database ORM**
 
