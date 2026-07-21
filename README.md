@@ -3,7 +3,6 @@
 🚀 Full Stack Developer
 ⚡ ASP.NET Core | React | Node.js
 ☁ Azure | AWS
-🐳 Docker
 🔁 Azure DevOps CI/CD 
 🗄 SQL Server
 🤖 Exploring GenAI & Python
